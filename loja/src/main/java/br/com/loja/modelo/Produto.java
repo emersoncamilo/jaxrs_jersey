@@ -1,4 +1,4 @@
-package br.com.alura.loja.modelo;
+package br.com.loja.modelo;
 
 
 public class Produto {
